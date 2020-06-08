@@ -121,7 +121,6 @@ class ReportController extends Controller {
                 ->update(['actionType' => CentralSetting::IN_PROCESS]);
 
 
-
         return response()->json(true);
     }
 
