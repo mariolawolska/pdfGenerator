@@ -4,6 +4,7 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
+<<<<<<< HEAD
     Created on : 17-Mar-2020, 15:11:18
     Author     : ubuvolt
 */
@@ -255,3 +256,33 @@ blockquote {
     border-color: transparent #0877A1 transparent transparent;
   }
 }
+=======
+    Created on : 25-Jan-2020, 20:22:03
+    Author     : ubuvolt
+*/
+body{
+     margin-top: 10px;
+     /*background: #BC9B78!important;*/
+     color:black;
+}
+
+input, textarea{
+    box-shadow:1px 2px 1px white;
+} 
+
+.form-fields{
+    box-shadow: 1px 8px 6px black; 
+    border:1px solid white; 
+    padding:30px;
+}
+tr:hover{background: #91786b; box-shadow: 1px 4px 1px black}
+.bg-image {
+  background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/form-bk.jpg');
+  background-size: cover;
+  background-position: center;
+}
+  .display_none
+{
+    display: none;
+}
+>>>>>>> origin/master

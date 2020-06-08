@@ -24,7 +24,7 @@
         "optimize-autoloader": true,
         "preferred-install": "dist",
         "sort-packages": true,
-        "cache-dir": "/home/wolscy/public_html/ajaxform/cache"
+        "cache-dir": "/home/wolscy/public_html/signature/cache"
     },
     "extra": {
         "laravel": {

@@ -22,7 +22,7 @@ return [
       | These options determine which information will be transmitted to Flare.
       |
      */
- 'reporting' => [
+    'reporting' => [
         'anonymize_ips' => true,
         'collect_git_information' => false,
         'report_queries' => true,
@@ -39,5 +39,5 @@ return [
       | no matter which error level you specified in the Flare log channel.
       |
      */
-    'send_logs_as_events' => false,
+    'send_logs_as_events' => true,
 ];
