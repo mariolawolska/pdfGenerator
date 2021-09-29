@@ -1,6 +1,6 @@
 
 
-<img src="http://wolscy.com/czarna/images/pdfgenerator.jpg">
+<img src="https://github.com/mariolawolska/pdfGenerator/blob/Master/pdfgenerator.jpg">
 
 <b>Target</b>: To display data entry in HTMl Table and allow system user to generate PDF based on existing data.
 
@@ -8,5 +8,3 @@
 
 PHP, AJAX, JS, CSS(bootstrap), HTML, MYSQL DB
 
-See demo belove
-https://www.pdfgenerator.wolscy.com/public
